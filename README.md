@@ -10,20 +10,21 @@ Soy Mily Álvarez, desarrolladora Fullstack Jr. Empecé a programar de forma aut
 Me gusta aprender constantemente, busco perfeccionarme en las últimas tecnologías para poder incorporar nuevas herramientas. 
 
  
- 💡 En lo que va del 2022 he aprendido y sigo aprendiendo:
+ 💡 En lo que va del 2023 he aprendido y sigo aprendiendo:
+
+ - Python
+ - Ciencia de Datos
  - SQL
  - Java
- - Nifi
- - Kafka
- - OSB
- - Angular
+ 
    
 #### 😊 Sobre mí <br>
    🌎 Soy de Córdoba, Argentina <br>
-   📚 Actualmente estudio Tecnicatura Superior en Desarrollo Web y Apps Digitales en el Instituto Superior Politécnico Córdoba <br>
+   📚 Actualmente estudio Tecnicatura Superior en Desarrollo de Software en el Instituto Santo Domingo <br>
+   📚 En 2023 finalicé la Diplomatura en Ciencias de Datos <br>
    📌 Disfruto mucho de aprender y poder transmitir lo aprendido <br>
    📂 Soy creadora de contenido <br>
    💡  Perfeccionar mi nivel de inglés es uno de mis objetivos <br>
-   📌 Actualmente llevo más de un año como Integration Developer
+   📌 Actualmente llevo más de dos años como Integration Developer
    
    🔎 LinkedIn: https://www.linkedin.com/in/milyalvarez/
