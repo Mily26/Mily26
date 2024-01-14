@@ -2,7 +2,7 @@
 
 ## Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/source.gif" alt="girl" width="230">
+<img align='right' src="" alt="girl" width="230">
 
 
 
@@ -23,7 +23,6 @@ Me gusta aprender constantemente, busco perfeccionarme en las últimas tecnolog�
    📚 Actualmente estudio Tecnicatura Superior en Desarrollo de Software en el Instituto Santo Domingo <br>
    📚 En 2023 finalicé la Diplomatura en Ciencias de Datos <br>
    📌 Disfruto mucho de aprender y poder transmitir lo aprendido <br>
-   📂 Soy creadora de contenido <br>
    💡  Perfeccionar mi nivel de inglés es uno de mis objetivos <br>
    📌 Actualmente llevo más de dos años como Integration Developer
    
