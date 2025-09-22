@@ -6,16 +6,17 @@
 
 
 
-Soy Mily Álvarez, desarrolladora Fullstack Jr. Empecé a programar de forma autodidacta y descubrí un camino que me encanta!
+Soy Mily Álvarez, backend developer. Empecé a programar de forma autodidacta y descubrí un camino que me encanta!
 Me gusta aprender constantemente, busco perfeccionarme en las últimas tecnologías para poder incorporar nuevas herramientas. 
 
  
- 💡 En lo que va del 2023 he aprendido y sigo aprendiendo:
+ 💡 En lo que va del 2024 he aprendido y sigo aprendiendo:
 
- - Python
+ - Android
  - Ciencia de Datos
  - SQL
  - Java
+ - Airflow
  
    
 #### 😊 Sobre mí <br>
@@ -24,6 +25,6 @@ Me gusta aprender constantemente, busco perfeccionarme en las últimas tecnolog�
    📚 En 2023 finalicé la Diplomatura en Ciencias de Datos <br>
    📌 Disfruto mucho de aprender y poder transmitir lo aprendido <br>
    💡  Perfeccionar mi nivel de inglés es uno de mis objetivos <br>
-   📌 Actualmente llevo más de dos años como Integration Developer
+   📌 Actualmente llevo más de cuatro años como Integration & Backend Developer
    
    🔎 LinkedIn: https://www.linkedin.com/in/milyalvarez/
